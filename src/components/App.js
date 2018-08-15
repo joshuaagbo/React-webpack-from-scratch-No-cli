@@ -5,6 +5,8 @@ class App extends Component{
     return(
       <div className = "App">
         <h2>Welcome To React&amp;Webpack From Scratch.</h2>
+        <br />
+        <p> navigate to the <code> ./src/... </code> to explore.</p>
       </div>
     )
   }
